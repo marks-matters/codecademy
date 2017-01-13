@@ -1,6 +1,6 @@
 '''
 Battleship Game
-Version:    1.0
+Version:    1.1
 Author:     Mark David Jennings
 Created:    2013-07-07
 ---------------------
