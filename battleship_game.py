@@ -3,6 +3,7 @@ Battleship Game
 Version:    1.1
 Author:     Mark David Jennings
 Created:    2013-07-07
+Updated:    2017-07-17
 ---------------------
 Fixes required:
 Need to be able to give player another turn if they guess the same location or off the board,
